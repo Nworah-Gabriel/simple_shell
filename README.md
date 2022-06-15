@@ -68,5 +68,5 @@ exit error:
 	^_^
 
 ## Authors
-- `Oghenemaro Odibo Precious` gabrielnworah6@gmail.com
-- `Nworah Gabriel Chimzuruoke` trendy4zeal@yahoo.com
+- `Oghenemaro Odibo Precious` trendy4zeal@yahoo.com
+- `Nworah Gabriel Chimzuruoke` gabrielnworah6@gmail.com
